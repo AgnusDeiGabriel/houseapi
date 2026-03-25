@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7azZNdyVf58=",
+  "dgSpecHash": "bYJJaRjuK2Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AgnusDeiGabriel\\HouseApi\\HouseApi.csproj",
+  "projectFilePath": "C:\\Users\\AgnusDeiGabriel\\houseapi\\HouseApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AgnusDeiGabriel\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\AgnusDeiGabriel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",

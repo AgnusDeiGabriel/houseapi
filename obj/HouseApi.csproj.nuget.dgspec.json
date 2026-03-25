@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AgnusDeiGabriel\\HouseApi\\HouseApi.csproj": {}
+    "C:\\Users\\AgnusDeiGabriel\\houseapi\\HouseApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AgnusDeiGabriel\\HouseApi\\HouseApi.csproj": {
+    "C:\\Users\\AgnusDeiGabriel\\houseapi\\HouseApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AgnusDeiGabriel\\HouseApi\\HouseApi.csproj",
+        "projectUniqueName": "C:\\Users\\AgnusDeiGabriel\\houseapi\\HouseApi.csproj",
         "projectName": "HouseApi",
-        "projectPath": "C:\\Users\\AgnusDeiGabriel\\HouseApi\\HouseApi.csproj",
+        "projectPath": "C:\\Users\\AgnusDeiGabriel\\houseapi\\HouseApi.csproj",
         "packagesPath": "C:\\Users\\AgnusDeiGabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AgnusDeiGabriel\\HouseApi\\obj\\",
+        "outputPath": "C:\\Users\\AgnusDeiGabriel\\houseapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AgnusDeiGabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"

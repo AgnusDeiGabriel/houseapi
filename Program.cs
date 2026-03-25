@@ -19,7 +19,14 @@ builder.Services.AddCors(options =>
         .AllowAnyMethod());
 });
 
+
 var app = builder.Build();
+
+using (var scope = builder.Services.BuildServiceProvider().CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    dbContext.Database.Migrate();
+}
 
 app.UseCors("allowall");
 app.UseDefaultFiles();

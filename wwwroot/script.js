@@ -1,4 +1,4 @@
-const API = "http://localhost:5116/api/house";
+const API = "http://localhost:8080/api/house";
 
 async function loadHouses(){
 

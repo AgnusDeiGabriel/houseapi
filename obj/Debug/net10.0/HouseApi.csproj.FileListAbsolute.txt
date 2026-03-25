@@ -153,3 +153,4 @@ C:\Users\AgnusDeiGabriel\HouseApi\bin\Debug\net10.0\HouseApi.staticwebassets.run
 C:\Users\AgnusDeiGabriel\HouseApi\obj\Debug\net10.0\compressed\hmai011of9-{0}-3ak90m9hp5-3ak90m9hp5.gz
 C:\Users\AgnusDeiGabriel\HouseApi\obj\Debug\net10.0\compressed\ypztxfkp8f-{0}-9bus4qvwt3-9bus4qvwt3.gz
 C:\Users\AgnusDeiGabriel\HouseApi\obj\Debug\net10.0\compressed\vjcz1evomy-{0}-9jmz0zbu4o-9jmz0zbu4o.gz
+C:\Users\AgnusDeiGabriel\houseapi\obj\Debug\net10.0\HouseApi.sourcelink.json
